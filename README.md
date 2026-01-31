@@ -183,25 +183,6 @@ This will create 6 sample vehicles in your database.
 - User data isolation
 - Input validation
 
-## 🏗️ Project Structure
-
-```
-vehicle-rental-app/
-├── client/                 # Frontend React app
-│   ├── src/
-│   │   ├── App.jsx        # Main React component
-│   │   ├── main.jsx       # Entry point
-│   │   └── index.css      # Tailwind styles
-│   ├── index.html
-│   ├── package.json
-│   ├── vite.config.js
-│   └── tailwind.config.js
-│
-└── server/                # Backend Node.js app
-    ├── server.js          # Express server & MongoDB
-    └── package.json
-```
-
 ## 🔧 Customization
 
 ### Adding More Vehicles
