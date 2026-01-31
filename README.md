@@ -46,6 +46,10 @@ A modern, full-stack vehicle rental application with a beautiful UI and MongoDB 
 ### 1. Clone or Download the Project
 
 ```bash
+# Clone Repository
+git clone https://github.com/Abhinav-xd/DRIVE-NOW
+
+# Navigate to root directory 
 cd vehicle-rental-app
 ```
 
